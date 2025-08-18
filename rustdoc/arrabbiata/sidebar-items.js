@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAXIMUM_FIELD_SIZE_IN_BITS","MAX_DEGREE","MIN_SRS_LOG2_SIZE","MV_POLYNOMIAL_ARITY","NUMBER_OF_COLUMNS","NUMBER_OF_GADGETS","NUMBER_OF_VALUES_TO_ABSORB_PUBLIC_IO","VERIFIER_CIRCUIT_SIZE"],"mod":["challenge","cli","column","constraint","curve","decider","interpreter","logup","poseidon_3_60_0_5_5_fp","poseidon_3_60_0_5_5_fq","setup","witness"]};

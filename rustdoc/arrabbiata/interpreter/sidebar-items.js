@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["VERIFIER_STARTING_INSTRUCTION"],"enum":["Instruction","Side"],"fn":["fetch_next_instruction","run_app","run_ivc"],"trait":["InterpreterEnv"]};

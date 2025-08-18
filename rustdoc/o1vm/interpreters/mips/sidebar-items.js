@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAXIMUM_DEGREE_CONSTRAINTS","TOTAL_NUMBER_OF_CONSTRAINTS"],"mod":["column","constraints","interpreter","registers","witness"]};

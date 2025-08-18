@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["QueryError"],"fn":["aggregate_commitments","chunk_size_in_bytes","min_encoding_chunks"],"struct":["QueryBytes","QueryField"]};
